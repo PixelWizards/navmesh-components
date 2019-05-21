@@ -1,0 +1,10 @@
+{
+	"name": "com.pixelwizards.navmeshcomponents",
+	"displayName":"Unity Navmesh Components",
+	"version": "0.1.0",
+	"unity": "2018.3",
+	"description": "This package is a 'package manager' friendly wrapper for the Unity Navmesh Components library.",
+	"keywords": ["navmesh", "ai", "pathfinding"],
+	"dependencies": {
+	}
+}
