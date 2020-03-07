@@ -1,20 +1,32 @@
-Unity Navmesh Components Package 
+# Unity Navmesh Components Package 
 ==========================
+
+[![openupm](https://img.shields.io/npm/v/com.pixelwizards.navmeshcomponents?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.pixelwizards.navmeshcomponents/)
+
 
 A simple 'package manager' wrapper for Unity's Navmesh Components.
 
 Original source repo here:
-
 https://github.com/Unity-Technologies/NavMeshComponents
 
-Package Version
+Check the documentation for more info about the new mavmesh components:
+https://github.com/PixelWizards/navmesh-components/blob/master/Documentation~/README.md
+
+### Package Version
 ============================
 
-Note: the 'master' branch of the package is built from the 2018.3 branch. 
+Note: the 'master' branch of this package is built from the 2018.3 branch.
 
-Branches for other versions will be created in the future.
+### Install via OpenUPM
+===========================
 
-Usage
+The package is available on the [openupm registry](https://openupm.com). It's recommended to install it via [openupm-cli](https://github.com/openupm/openupm-cli).
+
+```
+openupm add com.pixelwizards.navmeshcomponents
+```
+
+### Install via git url
 ===========================
 
 Add the following to your project's 'manifest.json':
